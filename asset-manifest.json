@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f7b24f1.css",
+    "main.js": "/static/js/main.7871c2a7.js",
+    "static/media/NotoSansKR-VariableFont_wght.ttf": "/static/media/NotoSansKR-VariableFont_wght.33752a94ca5252213de8.ttf",
+    "static/media/1200X600-1.png": "/static/media/1200X600-1.8d028a7e083303eb9560.png",
+    "static/media/section-2-1.png": "/static/media/section-2-1.5cd81e8aeb2cf53794df.png",
+    "static/media/section-2-3.png": "/static/media/section-2-3.87da4d69540e5da45272.png",
+    "static/media/section-2-2.png": "/static/media/section-2-2.ab4d26a1f971703be0ed.png",
+    "static/media/section-2-4.png": "/static/media/section-2-4.64bd84b74b4be1a792f3.png",
+    "static/media/chatbot.png": "/static/media/chatbot.86e4a70256d85163f316.png",
+    "static/media/section-2-1-ico.svg": "/static/media/section-2-1-ico.79e8682b6cadaf3b64d98ffcf1802483.svg",
+    "index.html": "/index.html",
+    "static/media/section-2-4-ico.svg": "/static/media/section-2-4-ico.e7728e51393ae2f2c02a4a8ff1ba17bd.svg",
+    "static/media/section-2-2-ico.svg": "/static/media/section-2-2-ico.dd93dbdf47480dae7e6a62b9ee134382.svg",
+    "static/media/section-2-3-ico.svg": "/static/media/section-2-3-ico.3da2a430da705f3b103f10cc65c8fe77.svg",
+    "main.5f7b24f1.css.map": "/static/css/main.5f7b24f1.css.map",
+    "main.7871c2a7.js.map": "/static/js/main.7871c2a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f7b24f1.css",
+    "static/js/main.7871c2a7.js"
+  ]
+}
